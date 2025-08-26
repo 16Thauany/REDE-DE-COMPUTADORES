@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+.computador{
+    text-align: center;
+}
+/* ...existing code... */
+body {
+    border: 15px solid transparent;
+    padding: 20px;
+    border-image: url('flores.png') 30 round;
+}
+/* ...existing code... */
+/* ...existing code... */
+.computador img {
+    border: 5px solid red; /* cor e espessura da borda */
+    border-radius: 12px;       /* borda arredondada (opcional) */
+    padding: 4px;              /* espaço entre a borda e a imagem */
+}
+/* ...existing code... */
+body{
+    background-color: aqua;
+}
